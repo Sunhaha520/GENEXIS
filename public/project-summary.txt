@@ -1,0 +1,132 @@
+GENEXIS
+Case
+Showcase
+
+
+GENEXIS1. Team Profile
+Team Members & Expert Sources
+We grow together with 
+our partner enterprises.
+We are more than just a consulting firm. 
+We verify technical feasibility, develop 
+p r o t o t y p e s ,  a n d  h e l p  y o u  a v o i d 
+unnecessary costs, safeguarding your 
+journey toward digital empowerment.
+
+GENEXIS2. Featured Cases
+AI Intelligent Scheduling System
+30–60x efficiency improvement
+Packaging Agent Solution
+Save over 200,000 per year
+Lab Report Agent Solution
+25–40x efficiency improvement
+Compliance Verification Agent
+15–20x efficiency improvement
+LLM 3D Spatial Perception Solution
+Delivering an LLM-powered 3D 
+point cloud perception solution for a 
+Hong Kong enterprise, enabling 
+building 3D visualization, intelligent 
+construction decision-making and 
+refined management.
+
+
+GENEXIS3. Implementation Cases
+Packaging Agent Solution
+Requirements
+Recommends alternative packaging, 
+provides negotiation strategies, 
+analyzes price trends, reduces 
+packaging procurement costs.
+Results
+Delivers customized implementation, 
+e l i m i n a t e s  h i g h  e x t e r n a l 
+development fees, enables low-cost 
+feasibility validation and application, 
+and delivers annual savings of over 
+200,000.
+AI Intelligent Scheduling
+Requirements
+LLM-powered auto scheduling 
+integrated with employee expertise 
+and calendars.
+Results
+Feasibility validated and deployed 
+within one week, boosting efficiency 
+by 30–60 times.
+AI Customer Service System
+Requirements
+Build a knowledge base with product 
+and service records, integrate e-
+c o m m e r c e ,  a n d  e n a b l e  L L M -
+powered auto responses.
+Results
+Achieved highly accurate responses 
+t o  c u s t o m e r  i n q u i r i e s  w i t h  a 
+response accuracy rate of 95%+.
+
+GENEXIS3. Implementation Cases
+Compliance Verification Agent
+Requirements
+Intelligently identify document types 
+and data, automatically fetch official 
+information, compare and verify 
+validity efficiently.
+Results
+Adopted by Jingwei Technology and 
+Yangzi Petrochemical, with an 
+average verification time of 5 
+seconds per person, significantly 
+reducing manual review workload.
+Requirements
+Read and analyze experimental data 
+i n  a c c o r d a n c e  w i t h  c o m p a n y 
+standards to automatically generate 
+experimental reports.
+Results
+Innovate the workflow of extraction, 
+reasoning, analysis, configuration 
+generation and rendering, achieving 
+2 5  t o  4 0  t i m e s  e f f i c i e n c y 
+improvement.
+Requirements
+Enable LLM to perceive 3D point 
+clouds, understand construction 
+sites, and supp o r t  i n t e l l i g e n t 
+management and planning.
+Results
+W e  d e l i v e r  p o i n t  c l o u d 
+s e g m e n t a t i o n  a n d  L L M 
+understanding solutions. Developed 
+with the client, the system is 
+successfully implemented and a 
+paper is pending publication.
+Lab Report Agent Solution LLM 3D Spatial Perception
+
+GENEXIS4. Ongoing Cases
+Collaborated with MANN+HUMMEL 
+China to develop implementation 
+solutions for digital office areas, digital 
+laboratories and smart factories.
+Provided solutions for MANN+HUMMEL 
+India, enabling automated report 
+generation for the global AA department.
+Cooperated with Jingwei Technology to 
+develop an intelligent Agent solution for 
+c h e m i c a l  p r o d u c t i o n  s a f e t y 
+management for Sinopec.
+Assisting t h e  H R  d e p a r t m e n t  o f 
+M A N N + H U M M E L  i n  d i g i t a l 
+transformation; designing AI-driven 
+solutions for COSO Sanitary Ware.
+
+GENEXIS5. Conclusion
+We are a technology-focused professional consulting firm. Our core founding team and industry experts 
+come from diverse fields, enabling us to deeply engage with your business, accurately understand your 
+needs, and fully turn your requirements into practical business solutions.
+We not only have independent development capabilities but also maintain an extensive network of high-
+quality downstream suppliers. We conduct rigorous feasibility assessments before cooperation. If a project is 
+not viable, we help you avoid unnecessary costs in advance; if feasible, we provide full support in connecting 
+you with qualified suppliers.
+We work closely with outstanding enterprises across Suzhou, helping local leading companies 
+expand globally.
