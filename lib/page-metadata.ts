@@ -52,9 +52,7 @@ export function createSiteMetadata(locale: string): Metadata {
   const loc = resolveLocale(locale);
 
   return {
-    title: {
-      default: getFullPageTitle("home", locale),
-    },
+    title: getFullPageTitle("home", locale),
     description:
       loc === "zh"
         ? "极创数生专注企业数智化咨询与落地，帮助企业完成可行性验证、原型搭建、方案实施与供应商协同，打通数智化最后一公里。"
